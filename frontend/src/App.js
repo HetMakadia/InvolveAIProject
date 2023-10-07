@@ -1,5 +1,3 @@
-// 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
-
 import './App.css';
 import React, {useState} from "react";
 import {Document, Page} from 'react-pdf';
