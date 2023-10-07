@@ -1,4 +1,3 @@
-# # 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
 #
 # from fastapi import FastAPI, File, UploadFile
 # from fastapi.middleware.cors import CORSMiddleware
@@ -8,7 +7,7 @@
 # import os
 #
 #
-# OPENAI_API_KEY="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"
+# OPENAI_API_KEY="OPENAI_API"
 # os.environ["OPENAI_API_KEY"]=OPENAI_API_KEY
 #
 # # loader=PyPDFLoader('')
